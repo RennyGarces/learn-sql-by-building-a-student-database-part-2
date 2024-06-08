@@ -144,3 +144,7 @@ nano student_info.sh
 ./student_info.sh
 ./student_info.sh
 nano student_info.sh
+SELECT student_info.sh student_info.sh.save students.sql FROM student ORDER BY GPA
+SELECT student_info.sh student_info.sh.save students.sql FROM student ORDER BY gpa
+SELECT student_info.sh student_info.sh.save students.sql FROM students ORDER BY gpa
+SELECT student_info.sh student_info.sh.save students.sql FROM students
