@@ -112,3 +112,8 @@ clear
 cd --help
 clear
 ./student_info.sh
+ls --color=auto
+ls --color=auto -a
+ls --color=auto -l
+clear
+nano student_info.sh
