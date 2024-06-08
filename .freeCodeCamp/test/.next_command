@@ -108,3 +108,7 @@ nano student_info.sh
 nano student_info.sh
 nano student_info.sh
 nano student_info.sh
+clear
+cd --help
+clear
+./student_info.sh
