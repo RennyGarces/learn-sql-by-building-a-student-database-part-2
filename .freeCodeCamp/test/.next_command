@@ -56,3 +56,5 @@ touch student_info.sh
 xchmod x+ student_info.sh
 chmod x+ student_info.sh
 chmod +x student_info.sh
+vim student_info.sh
+nano student_info.sh
