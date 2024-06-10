@@ -468,3 +468,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 nano student_info.sh
 nano student_info.sh
 ./student_info.sh
+nano student_info.sh
